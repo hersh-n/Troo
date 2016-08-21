@@ -1,0 +1,10 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="SpawnBallScript">
+			<method name="PinkClicked"/>
+			<method name="GreenClicked"/>
+			<method name="YellowClicked"/>
+			<method name="BlueClicked"/>
+		</type>
+	</assembly>
+</linker>
